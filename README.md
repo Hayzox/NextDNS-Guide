@@ -1,25 +1,3 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.77 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* HTML and Markdown from Docs version 1.0
-* Sat Nov 13 2021 23:43:39 GMT-0000 (UTC)
-* Source doc: Hayzox's NextDNS Guide
------>
-
-
-
 # Hayzox's NextDNS Guide
 
 These are my recommended settings for [NextDNS](https://nextdns.io/). Please restore default settings before applying settings.
