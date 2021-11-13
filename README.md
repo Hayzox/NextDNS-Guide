@@ -82,6 +82,23 @@ These are my recommended settings for [NextDNS](https://nextdns.io/). Please res
 
 
 
+* report-uri.cloudflare.com
+* nel.cloudflare.com
+* gcp.api.snapchat.com
+* experience.snapchat.com
+* ads-interfaces.sc-cdn.net
+* codepush.appcenter.ms
+* promo.ge
+* analyticson.ai
+* geoadsense.ge
+* crystal-ad.ge
+* widget.siteheart.co
+* da.ge
+* spade.sci.twitch.tv
+* crash.discord.com
+* origin-analytics-prod.production.braintree-api.com
+* suggestqueries-clients6.youtube.com
+* gstaticadssl.l.google.com
 * sdi-tool.org
 * remote-auth-gateway.discord.gg
 * public.cloud.unity3d.com
